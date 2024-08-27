@@ -13,6 +13,7 @@
 ## Welcome to my GitHub corner! 
 🌱 I’m a 3rd-year engineering student with a deep interest in Artificial Intelligence and Machine Learning. My journey in technology spans across various domains, from developing intelligent systems to crafting dynamic web applications.
 <br>
+<br>
 
 ## A Snapshot of My Journey...
 ```python
@@ -31,7 +32,7 @@ sarika = {
     ]
 }
 ```
-
+<br>
 
 ## <img src="https://cdn.pixabay.com/animation/2023/06/13/15/12/15-12-47-323_512.gif" alt="Explore" width="25" />  Dive into My Work:
 Interested in seeing what I’ve been up to?
