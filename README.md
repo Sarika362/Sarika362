@@ -18,10 +18,10 @@
 ## A Snapshot of My Journey...
 ```python
 sarika = {
-    'education': "3rd-Year | BE in CSE(AIML) | Don Bosco Institute of Technology | CGPA: 9.14",
+    'education': "4rd-Year | BE in CSE(AIML) | Don Bosco Institute of Technology | CGPA: 9.15",
     'interests': ["AI", "ML", "Data Science", "Web Development", "App Development", "Cybersecurity"],
     'code': ["C", "C++", "Java", "Python", "HTML", "CSS", "JavaScript", "SQL", "Oracle", "PHP"],
-    'frameworks': ["Angular", "Django", "Flask"],
+    'frameworks': ["Angular", "React", "React-Native", "Django", "Flask"],
     'keyProjects': [
         "Disease Detection and Healthcare Recommendation System",
         "Finance Management",
