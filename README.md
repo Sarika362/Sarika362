@@ -11,14 +11,14 @@
 <br>
 
 ## Welcome to my GitHub corner! 
-🌱 I’m a 3rd-year engineering student with a deep interest in Artificial Intelligence and Machine Learning. My journey in technology spans across various domains, from developing intelligent systems to crafting dynamic web applications.
+🌱 I’m a 4th-year engineering student with a deep interest in Artificial Intelligence and Machine Learning. My journey in technology spans across various domains, from developing intelligent systems to crafting dynamic web applications.
 <br>
 <br>
 
 ## A Snapshot of My Journey...
 ```python
 sarika = {
-    'education': "4rd-Year | BE in CSE(AIML) | Don Bosco Institute of Technology | CGPA: 9.15",
+    'education': "4th-Year | BE in CSE(AIML) | Don Bosco Institute of Technology | CGPA: 9.15",
     'interests': ["AI", "ML", "Data Science", "Web Development", "App Development", "Cybersecurity"],
     'code': ["C", "C++", "Java", "Python", "HTML", "CSS", "JavaScript", "SQL", "Oracle", "PHP"],
     'frameworks': ["Angular", "React", "React-Native", "Django", "Flask"],
