@@ -2,9 +2,10 @@
 <p style="align:center; font-family: Georgia, Arial, sans-serif; align-items:center">
 
     <h1>
+<img src="https://media.tenor.com/aCQAWmp5Jd8AAAAi/hello-wave.gif" alt="Welcome" style="width: 100px; height:50px"/>
       Hello, I'm <strong> Sarika M N!
       
-<img src="https://media.tenor.com/aCQAWmp5Jd8AAAAi/hello-wave.gif" alt="Welcome" style="width: 100px; height:50px"/>
+
 </strong> </h1>
     </p>
 </div>
