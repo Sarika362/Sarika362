@@ -3,9 +3,10 @@
 
     <h1>
       Hello, I'm <strong> Sarika M N!
-      </strong> </h1>
-    </p>
+      
 <img src="https://media.tenor.com/aCQAWmp5Jd8AAAAi/hello-wave.gif" alt="Welcome" style="width: 100px; height:50px"/>
+</strong> </h1>
+    </p>
 </div>
 
 <div> <h3><strong> <i> Tech Aficionado </i> | <i> AI/ML Enthusiast </i> | <i> Web Developer </i> | <i> App Developer </i>  </strong> </h2></div>
