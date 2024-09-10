@@ -1,4 +1,4 @@
-<div align="center" style="font-family: Georgia, Arial, sans-serif;  position:relative;" >
+8<div align="center" style="font-family: Georgia, Arial, sans-serif;  position:relative;" >
   <p style="align:center; font-family: Georgia, Arial, sans-serif; align-items:center">
     <h1> <strong> 
       Hello, I'm Sarika M N!
@@ -51,7 +51,7 @@ sarika = {
 Interested in seeing what I’ve been up to?
 <br>
 Explore my repositories to get a glimpse of my latest projects and experiments:
-### 🔗 [Discover My GitHub Projects](https://github.com/Sarika362?tab=repositories)
+### 🔗 [Discover My GitHub Repositories](https://github.com/Sarika362?tab=repositories)
 
 <br>
 
