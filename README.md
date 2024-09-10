@@ -34,10 +34,12 @@ sarika = {
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" /> 
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> 
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /> 
- <img src="https://img.shields.io/badge/Unix-%23D67F35.svg?style=for-the-badge&logo=unix&logoColor=white" />
  <img src="https://img.shields.io/badge/Oracle_SQL-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" />
+ <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Unix-%23D67F35.svg?style=for-the-badge&logo=unix&logoColor=white" />
 </p>
 
 ## 🖥️ Frameworks:
