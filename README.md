@@ -33,12 +33,48 @@ sarika = {
 }
 ```
 <br>
+  
+## ⚡ Tech Stack:
+<p align="center"> <img src="https://img.shields.io/badge/C%20-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /> </p>
+
+
+## 🖥️ Frameworks:
+<p align="center"> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" /> </p>
+
+
+## 🛠️ Tools:
+<p align="center"> <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" /> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /> </p>
+
+---
+
+<br>
 
 ## <img src="https://cdn.pixabay.com/animation/2023/06/13/15/12/15-12-47-323_512.gif" alt="Explore" width="25" />  Dive into My Work:
 Interested in seeing what I’ve been up to?
 <br>
 Explore my repositories to get a glimpse of my latest projects and experiments:
 ### 🔗 [Discover My GitHub Projects](https://github.com/Sarika362?tab=repositories)
+
+<br>
+
+
+
+
+
+
+<br>
+
+## 📊 GitHub Stats
+![Sarika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarika362&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
+
+
+
+<br>
+
+## 🌟 GitHub Contribution Graph
+![Sarika's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Sarika362&theme=dark)
+
+
 
 <br>
 
@@ -54,3 +90,12 @@ Explore my repositories to get a glimpse of my latest projects and experiments:
 <br>
 
 _“Innovation distinguishes between a leader and a follower.”_ – Let’s build the future together!
+
+
+<br>
+
+## 🎯 Future Goals
+- Learning advanced machine learning techniques.
+- Building scalable web applications with modern frameworks.
+- Contributing to open-source projects.
+
