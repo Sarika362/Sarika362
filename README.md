@@ -1,4 +1,5 @@
-<img src="https://media.tenor.com/aCQAWmp5Jd8AAAAi/hello-wave.gif" alt="Welcome" style="width: 100px; height:50px"/>
+<div style="align:center"><img src="https://media.tenor.com/aCQAWmp5Jd8AAAAi/hello-wave.gif" alt="Welcome" style="width: 100px; height:50px"/>
+</div>
 <p style="align:center; font-family: Georgia, Arial, sans-serif; align-items:center"><h1> <strong> Hello, I'm Sarika M N </strong> </h1></p>
 
 <div> <h3><strong> <i> Tech Aficionado </i> | <i> AI/ML Enthusiast </i> | <i> Web Developer </i> | <i> App Developer </i>  </strong> </h2></div>
