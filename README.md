@@ -7,7 +7,7 @@
     </p>
 </div>
 
-<div align="center" > <h3><strong> <i> AI/ML Enthusiast </i> | <i> Web Developer </i> | <i> App Developer </i> | <i> Tech Aficionado </i> </strong> </h2></div>
+<div> <h3><strong> <i> Tech Aficionado </i> | <i> AI/ML Enthusiast </i> | <i> Web Developer </i> | <i> App Developer </i>  </strong> </h2></div>
 <br>
 
 ## Welcome to my GitHub corner! 
@@ -20,8 +20,6 @@
 sarika = {
     'education': "4th-Year | BE in CSE(AIML) | Don Bosco Institute of Technology | CGPA: 9.15",
     'interests': ["AI", "ML", "Data Science", "Web Development", "App Development", "Cybersecurity"],
-    'code': ["C", "C++", "Java", "Python", "HTML", "CSS", "JavaScript", "SQL", "Oracle", "PHP"],
-    'frameworks': ["Angular", "React", "React-Native", "Django", "Flask"],
     'keyProjects': [
         "Disease Detection and Healthcare Recommendation System",
         "Finance Management",
@@ -59,9 +57,6 @@ Explore my repositories to get a glimpse of my latest projects and experiments:
 
 
 
-
-
-
 <br>
 
 ## 📊 GitHub Stats
@@ -89,10 +84,7 @@ Explore my repositories to get a glimpse of my latest projects and experiments:
 
 <br>
 
-_“Innovation distinguishes between a leader and a follower.”_ – Let’s build the future together!
 
-
-<br>
 
 ## 🎯 Future Goals
 - Learning advanced machine learning techniques.
