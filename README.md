@@ -1,4 +1,4 @@
-<div align="center" style="font-family: Georgia, Arial, sans-serif;  position:relative;">
+
 <p style="align:center; font-family: Georgia, Arial, sans-serif; align-items:center">
 
     <h1> <strong> Hello, I'm Sarika M N
@@ -6,7 +6,6 @@
 </strong> 
 </h1>
     </p>
-</div>
 
 <div> <h3><strong> <i> Tech Aficionado </i> | <i> AI/ML Enthusiast </i> | <i> Web Developer </i> | <i> App Developer </i>  </strong> </h2></div>
 <br>
