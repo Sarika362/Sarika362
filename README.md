@@ -26,6 +26,7 @@ sarika = {
 }
 ```
 <br>
+
   ## ⚡ Tech Stack:
 <p align="center"> 
   <img src="https://img.shields.io/badge/C%20-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /> 
@@ -113,8 +114,8 @@ Explore my repositories to get a glimpse of my latest projects and experiments:
  💞 I’m always eager to connect with like-minded individuals. Feel free to reach out if you'd like to chat or collaborate!
 
 
-* 📧 [Email](sarika.mn97@gmail.com)
+* 📩 [Email](sarika.mn97@gmail.com)
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/sarika-m-n/)
+* 🌐 [LinkedIn](https://www.linkedin.com/in/sarika-m-n/)
 
-* 🌐 [Portfolio](https://sarikamn-362.netlify.app/)
+* 🌍 [Portfolio](https://sarikamn-362.netlify.app/)
