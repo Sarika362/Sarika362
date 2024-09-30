@@ -118,4 +118,4 @@ Explore my repositories to get a glimpse of my latest projects and experiments:
 
 * 🌐 [LinkedIn](https://www.linkedin.com/in/sarika-m-n/)
 
-* 🌍 [Portfolio](https://sarikamn-362.netlify.app/)
+* 🌍 Portfolio Coming Soon
