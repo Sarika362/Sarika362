@@ -88,7 +88,7 @@ Explore my repositories to get a glimpse of my latest projects and experiments:
 ## 📊 GitHub Stats
 ![Sarika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarika362&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
 
-
+<img src="https://komarev.com/ghpvc/?username=Sarika362&label=Profile%20views&color=0e75b6&style=flat" alt="Sarika362" width="160" height="35"/>
 
 <br>
 
