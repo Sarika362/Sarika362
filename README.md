@@ -92,11 +92,19 @@ Explore my repositories to get a glimpse of my latest projects and experiments:
 
 <br>
 
+## 📊 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarika362&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+## 🏆 Competitive Programming Stats
+### 🏆 LeetCode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Sarika362?theme=dark&font=Karma)](https://leetcode.com/u/Sarika362/)
+
+<br>
+
 ## 🌟 GitHub Contribution Graph
-![Sarika's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Sarika362&theme=dark)
-
-
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sarika362&theme=dark)](https://git.io/streak-stats)
 
 
 <br>
